@@ -1,0 +1,4 @@
+{
+    "env": "prod",
+    "endPoint": "https://api.dictionaryapi.dev/api/v2/entries/en/" 
+}
